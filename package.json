@@ -1,0 +1,21 @@
+{
+  "name": "node-hero",
+  "version": "1.0.0",
+  "description": "D2S Node Parsing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkupcho/node-hero.git"
+  },
+  "keywords": [
+    "diablo2",
+    "d2s",
+    "d2"
+  ],
+  "author": "Jonathan Kupcho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkupcho/node-hero/issues"
+  },
+  "homepage": "https://github.com/jkupcho/node-hero#readme"
+}

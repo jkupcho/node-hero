@@ -1,0 +1,67 @@
+{
+    "0": {
+      "stat": "Strength",
+      "numBits": 10
+    },
+    "1": {
+      "stat": "Energy",
+      "numBits": 10
+    },
+    "2": {
+      "stat": "Dexterity",
+      "numBits": 10
+    },
+    "3": {
+      "stat": "Vitality",
+      "numBits": 10
+    },
+    "4": {
+      "stat": "Unused Stats",
+      "numBits": 10
+    },
+    "5": {
+      "stat": "Unused Skills",
+      "numBits": 8
+    },
+    "6": {
+      "stat": "Current HP",
+      "numBits": 21
+    },
+    "7": {
+      "stat": "Max HP",
+      "numBits": 21
+    },
+    "8": {
+      "stat": "Current Mana",
+      "numBits": 21
+    },
+    "9": {
+      "stat": "Max Mana",
+      "numBits": 21
+    },
+    "10": {
+      "stat": "Current Stamina",
+      "numBits": 21
+    },
+    "11": {
+      "stat": "Max Stamina",
+      "numBits": 21
+    },
+    "12": {
+      "stat": "Level",
+      "numBits": 7
+    },
+    "13": {
+      "stat": "Experience",
+      "numBits": 32
+    },
+    "14": {
+      "stat": "Gold",
+      "numBits": 25
+    },
+    "15": {
+      "stat": "Stashed Gold",
+      "numBits": 25
+    }
+  }
+  
