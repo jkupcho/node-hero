@@ -1,5 +1,7 @@
 const fs = require("fs");
 
+const readStats = require('./lib/readD2sStats').default;
+
 const characterBuffer = fs.readFileSync("./Blah.d2s");
 const fileLength = characterBuffer.length;
 
@@ -26,3 +28,5 @@ for (let i = 0; i < fileLength; ++i) {
  * Verify checksums match.
  */
 console.log(`checksums match: ${fileChecksum === runningChecksum}`)
+
+readStats();
